@@ -17,7 +17,7 @@ Predict whether an individual earns more than $50K annually using the **Adult Ce
 Cluster credit card customers into distinct groups to understand behavior and improve targeting strategies.  
 - **Goal:** Customer segmentation with unsupervised learning  
 - **Method:** K-Means clustering (with PCA for dimensionality reduction)  
-- **Optimal Clusters:** [Update with your result, e.g., 4]  
+- **Optimal Clusters:** 4
 - **Key Insights:**  
   - Segment 1: [High-value customers]  
   - Segment 2: [Budget-conscious users]  
