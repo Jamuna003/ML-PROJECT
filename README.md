@@ -23,4 +23,23 @@ Cluster credit card customers into distinct groups to understand behavior and im
   - Segment 2: [Budget-conscious users]  
   - Segment 3: [Balanced users]  
   - Segment 4: [Irregular users]  
-- **Notebook:** [`credit_card_customers_segmentation.ipynb`](./CreditCardSegmentation/credit_card_customers_segmentation.ipynb)  
+- **Notebook:** [`credit_card_customers_segmentation.ipynb`](./CreditCardSegmentation/credit_card_customers_segmentation.ipynb)
+  
+### 3. [Bike Rental Analysis](BikeRental/Bike_rental_analysis.ipynb)
+
+Analyze and predict hourly bike rental demand using historical usage data, weather conditions, and temporal patterns.  
+- **Goal:** Forecast hourly rental counts (Regression task)  
+- **Methods Tested:** Linear Regression, Ridge, Lasso, ElasticNet, Polynomial Regression  
+- **Best Model:** Ridge + Polynomial Features (d=2)  
+- **Performance Metrics (on test set):**  
+  - MAE: 329.62  
+  - MSE: 187,729.49  
+  - RMSE: 433.28  
+  - R²: 0.491  
+
+- **Key Insights:**  
+  - Weather and seasonality significantly affect rental demand.  
+  - Regularized regression (Ridge + Poly) outperformed plain linear models.  
+  - Polynomial features captured non-linear relationships better.  
+
+- **Notebook:** [`bike_rental_analysis.ipynb`](BikeRental/Bike_rental_analysis.ipynb)  
