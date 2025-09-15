@@ -1,38 +1,26 @@
-# ML-PROJECT
-it’s a machine learning project
-#  Adult Income Classification (ML Project)
+# 📂 Machine Learning Projects Portfolio
 
-This project applies machine learning to the **Adult Census Income dataset** to predict whether an individual earns more than $50K annually based on demographic and work-related features.  
-## Overview
-- **Goal**: Build a classification model to predict income categories (>50K or ≤50K).  
-- **Approach**: Exploratory Data Analysis → Preprocessing → Model Training → Evaluation.  
-- **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.  
+This repository contains my machine learning projects. Each project is organized in its own folder with a Jupyter Notebook and a detailed README.
 
 ---
+## 🔹 Projects
 
-##  Files
-- `JamunaKG_AdultIncome_Classification.ipynb` → Complete workflow including data exploration, preprocessing, modeling, and evaluation.  
-
+### 1. [Adult Income Classification](./AdultIncome/README.md)
+Predict whether an individual earns more than $50K annually using the **Adult Census Income dataset**.  
+- **Goal:** Classification (income >50K vs ≤50K)  
+- **Best Model:** Random Forest  
+- **Accuracy:** 84.92%  
+- **F1 (weighted):** 84.91%  
+- **Notebook:** [`adult_income_classification.ipynb`](./AdultIncome/adult_income_classification.ipynb)  
 ---
-
-##  Workflow
-1. **Exploratory Data Analysis (EDA)** – Visualized distributions, patterns, and correlations.  
-2. **Data Preprocessing** – Handled missing values, encoded categorical variables, scaled features.  
-3. **Model Training** – Logistic Regression, Random Forest, Gradient Boosting, and others.  
-4. **Evaluation** – Classification report with accuracy, precision, recall, F1-score, and confusion matrix.  
-
----
-
-## Results
-- **Best Model**: *Random Forest Classifier* 
-- **Accuracy**: 84.92%   
-- **F1-score**:84.91%   
-
----
-
-##  How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Jamuna003/ML-PROJECT.git
-   cd ML-PROJECT
-
+### 2. [Credit Card Customers Segmentation](./CreditCardSegmentation/README.md)
+Cluster credit card customers into distinct groups to understand behavior and improve targeting strategies.  
+- **Goal:** Customer segmentation with unsupervised learning  
+- **Method:** K-Means clustering (with PCA for dimensionality reduction)  
+- **Optimal Clusters:** [Update with your result, e.g., 4]  
+- **Key Insights:**  
+  - Segment 1: [High-value customers]  
+  - Segment 2: [Budget-conscious users]  
+  - Segment 3: [Balanced users]  
+  - Segment 4: [Irregular users]  
+- **Notebook:** [`credit_card_customers_segmentation.ipynb`](./CreditCardSegmentation/credit_card_customers_segmentation.ipynb)  
