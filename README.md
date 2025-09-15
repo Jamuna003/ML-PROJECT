@@ -33,7 +33,7 @@ Analyze and predict hourly bike rental demand using historical usage data, weath
 - **Goal:** Forecast hourly rental counts (Regression task)  
 - **Methods Tested:** Linear Regression, Ridge, Lasso, ElasticNet, Polynomial Regression  
 - **Best Model:** Ridge + Polynomial Features (d=2)  
-- **Performance Metrics (on test set):**  
+- **Performance Metrics:**  
   - MAE: 329.62  
   - MSE: 187,729.49  
   - RMSE: 433.28  
