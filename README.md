@@ -46,4 +46,16 @@ Analyze and predict hourly bike rental demand using historical usage data, weath
 
 - **Notebooks:**  
   - [`bike_rental_analysis.ipynb`](BikeRental/Bike_rental_analysis.ipynb)  
-  - [`Bike_Rentals_Incremental.ipynb`](BikeRental/Bike_Rentals_Incremental.ipynb)  
+  - [`Bike_Rentals_Incremental.ipynb`](BikeRental/Bike_Rentals_Incremental.ipynb)
+### 4. [Sales Analysis](sales_analysis.ipynb)  
+Analyze sales performance data to uncover key business insights, trends, and opportunities for growth.  
+
+- **Goal:** Identify sales patterns, top-performing categories, and revenue drivers  
+- **Methods Used:** Exploratory Data Analysis (EDA), Data Cleaning, Aggregations, Visualization  
+- **Key Insights:**  
+  - Seasonal trends influence sales peaks  
+  - Certain product categories contribute disproportionately to revenue  
+  - Customer segmentation highlights differences in buying patterns  
+- **Visualizations:** Time-series sales trends, category-wise performance charts, customer behavior analysis  
+- **Notebook:** [`sales_analysis.ipynb`](sales_analysis.ipynb)  
+
