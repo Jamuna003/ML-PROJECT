@@ -25,6 +25,8 @@ Cluster credit card customers into distinct groups to understand behavior and im
   - Segment 4: [Irregular users]  
 - **Notebook:** [`credit_card_customers_segmentation.ipynb`](./CreditCardSegmentation/credit_card_customers_segmentation.ipynb)
   
+---
+
 ### 3. [Bike Rental Analysis](BikeRental/Bike_rental_analysis.ipynb)
 
 Analyze and predict hourly bike rental demand using historical usage data, weather conditions, and temporal patterns.  
@@ -42,5 +44,6 @@ Analyze and predict hourly bike rental demand using historical usage data, weath
   - Regularized regression (Ridge + Poly) outperformed plain linear models.  
   - Polynomial features captured non-linear relationships better.  
 
-- **Notebook:** [`bike_rental_analysis.ipynb`](BikeRental/Bike_rental_analysis.ipynb)
-   **Notebook:**  Bike_Rentals_Incremental.ipynb
+- **Notebooks:**  
+  - [`bike_rental_analysis.ipynb`](BikeRental/Bike_rental_analysis.ipynb)  
+  - [`Bike_Rentals_Incremental.ipynb`](BikeRental/Bike_Rentals_Incremental.ipynb)  
