@@ -1,0 +1,24 @@
+ # Sales Analysis  
+
+Analyze sales performance data to uncover key business insights, trends, and opportunities for growth.  
+
+## Goal  
+Identify sales patterns, top-performing categories, and revenue drivers.  
+
+## 🛠️ Methods Used  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Aggregations & Visualizations  
+
+## Key Insights  
+- Seasonal trends strongly influence sales peaks  
+- Top-selling product categories contribute disproportionately to revenue  
+- Customer segmentation highlights differences in buying patterns  
+
+## Visualizations  
+- Time-series sales trends  
+- Category-wise performance charts  
+- Customer behavior distribution  
+
+## Notebook  
+[`sales_analysis.ipynb`](sales_analysis.ipynb)  
