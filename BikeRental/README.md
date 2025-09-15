@@ -1,24 +1,24 @@
-# 🚲 Bike Rental Demand Prediction
+# Bike Rental Demand Prediction
 
 This project forecasts bike rental counts using the **Bike Sharing dataset**.  
 It contains two complementary notebooks: a **baseline analysis** and an **incremental, improved version**.
 
 ---
 
-## 📂 Notebooks
+##  Notebooks
 - **Baseline Analysis:** [`bike_rental_analysis.ipynb`](./bike_rental_analysis.ipynb)  
 - **Incremental Improvements:** [`bike_rental_incremental.ipynb`](./bike_rental_incremental.ipynb)  
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 - Explore rental usage patterns across time, weather, and seasonality.  
 - Build regression models to forecast demand.  
 - Show the progression from a baseline exploratory analysis to a more refined pipeline with advanced validation.  
 
 ---
 
-## 🔎 Key Differences Between Notebooks
+##  Key Differences Between Notebooks
 - **Data scope:**  
   - *Analysis:* Static dataset with exploratory analysis and first predictive models.  
   - *Incremental:* Extended pipeline with iterative processing and structured evaluation.  
@@ -41,7 +41,7 @@ It contains two complementary notebooks: a **baseline analysis** and an **increm
 
 ---
 
-## 📈 Results
+## Results
 | Notebook        | Best Model                  | Metrics Available |
 |-----------------|-----------------------------|------------------|
 | Analysis        | Random Forest (baseline)    | Only basic outputs, no MAE/MSE/RMSE/R² |
@@ -51,14 +51,14 @@ It contains two complementary notebooks: a **baseline analysis** and an **increm
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 Clone this repository and navigate to the project folder:
 
 ```bash
