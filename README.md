@@ -23,14 +23,14 @@ This project applies machine learning to the **Adult Census Income dataset** to 
 
 ---
 
-## 📈 Results
+## Results
 - **Best Model**: *Random Forest Classifier* 
 - **Accuracy**: 84.92%   
 - **F1-score**:84.91%   
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/Jamuna003/ML-PROJECT.git
