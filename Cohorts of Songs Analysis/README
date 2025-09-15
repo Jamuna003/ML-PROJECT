@@ -1,0 +1,45 @@
+#  Cohorts of Songs Analysis
+
+This project analyzes music listening behavior using cohort analysis techniques. By grouping users based on the time they first interacted with songs, we can study engagement, retention, and patterns in song consumption over time.
+
+---
+
+## Goal
+- Understand how user cohorts behave in terms of song listening.  
+- Measure user retention and engagement across different cohorts.  
+- Provide insights into music consumption trends.
+
+---
+
+##  Methods Used
+- **Data Cleaning & Preprocessing** – handling missing values, date formatting, and filtering.  
+- **Cohort Analysis** – grouping listeners based on their first month of activity.  
+- **Retention Calculation** – tracking how many users continue activity in subsequent months.  
+- **Visualization** – heatmaps and trend charts to show retention and cohort behavior.  
+
+---
+
+##  Key Insights
+- Early cohorts (first listeners) typically show higher retention.  
+- Engagement tends to decline after the first few months of activity.  
+- Seasonal or release-based trends affect cohort activity patterns.  
+
+---
+
+##  Visualizations
+- Cohort heatmap (user retention over time).  
+- Monthly trend plots by cohort.  
+
+---
+
+##  Notebook
+[`Cohorts of Songs.ipynb`](Cohorts%20of%20Songs.ipynb)
+
+---
+
+##  Future Enhancements
+- Extend analysis to include song genre or artist popularity.  
+- Compare cohorts across regions or demographics.  
+- Predict long-term retention using survival analysis or ML models.
+
+-
