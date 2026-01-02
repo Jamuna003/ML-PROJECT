@@ -1,0 +1,45 @@
+#  Spotify Cohort Analysis – User Listening Behavior
+
+##  Problem Statement
+Music streaming platforms need to understand how user listening behavior changes over time to improve recommendations and retention.
+
+##  Objective
+- Analyze cohort-based listening trends
+- Identify patterns in user engagement over time
+- Provide insights for personalized music recommendations
+
+##  Dataset
+- Source: Spotify song/user dataset
+- Data includes user activity, song features, and listening timestamps
+
+##  Tools & Technologies
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+##  Project Workflow
+1. Data cleaning and formatting
+2. Cohort creation based on first activity
+3. Retention and engagement analysis
+4. Visualization of cohort trends
+
+##  Key Analysis
+- Cohort analysis
+- Retention matrix
+- Time-based engagement tracking
+
+##  Key Insights
+- Early cohorts show higher long-term engagement
+- User activity drops after initial weeks without personalization
+- Certain song features correlate with better retention
+
+##  Visualizations
+- Cohort heatmaps
+- Retention curves
+- Engagement trends
+
+##  Results
+This analysis helps identify when users disengage and highlights opportunities to improve recommendation strategies.
+
+
