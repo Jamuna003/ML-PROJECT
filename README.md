@@ -73,55 +73,26 @@ Analyze user listening behavior over time using cohort analysis.
  ==============================================================================================================
 
 
-2️⃣ Employee Turnover Prediction
+### 6 Employee Turnover Prediction
 
-Domain: HR Analytics
+**Domain:** HR Analytics
 
-Problem Statement:
+**Problem Statement:**
 Employee attrition leads to high hiring costs and productivity loss.
 
-Objective:
-
-Predict employee attrition
+**Objective:** Predict employee attrition
 
 Identify key drivers of turnover
+**Tools:** Python, Pandas, Scikit-learn, Seaborn
 
-Tools: Python, Pandas, Scikit-learn, Seaborn
-
-Key Insights:
-
-Job satisfaction and overtime strongly impact attrition
+**Key Insights:** Job satisfaction and overtime strongly impact attrition
 
 Lack of growth opportunities increases turnover risk
 
-📓 Notebook:
-https://github.com/Jamuna003/ML-PROJECT/blob/main/Employee%20Turnover/Employee_Turnover.ipynb
+**Notebook:** [https://github.com/Jamuna003/ML-PROJECT/blob/main/Employee%20Turnover/Employee_Turnover.ipynb](https://github.com/Jamuna003/ML-PROJECT/blob/main/Employee_Turnover/Employee_Turnover.ipynb)
 
-3️⃣ Spotify Cohort Analysis
 
-Domain: Behavioral Analytics
-
-Problem Statement:
-Understand how user listening behavior changes over time.
-
-Objective:
-
-Perform cohort-based retention analysis
-
-Identify long-term engagement trends
-
-Tools: Python, Pandas, Matplotlib, Seaborn
-
-Key Insights:
-
-Early cohorts show stronger long-term engagement
-
-Engagement drops without personalization
-
-📓 Notebook:
-https://github.com/Jamuna003/ML-PROJECT/blob/main/Cohorts%20of%20Songs%20Analysis/Spotify_Cohorts_Songs.ipynb
-
-4️⃣ Lending Club Loan Data Analysis
+### 7 Lending Club Loan Data Analysis
 
 Domain: Finance
 
@@ -142,7 +113,7 @@ High interest rates correlate with defaults
 
 Lower credit grades show higher risk
 
-5️⃣ Home Loan Data Analysis
+### 8 Home Loan Data Analysis
 
 Domain: Banking
 
@@ -161,7 +132,7 @@ Credit history and income heavily influence approvals
 
 Loan-to-income ratio is a critical risk factor
 
-6️⃣ Sales Data Analysis
+### 9 Sales Data Analysis
 
 Domain: Business Analytics
 
@@ -180,7 +151,7 @@ Certain products drive majority of revenue
 
 Sales show clear seasonal patterns
 
-7️⃣ Bike Rental Demand Analysis (BikeEase)
+### 10 Bike Rental Demand Analysis (BikeEase)
 
 Domain: Time Series / EDA
 
@@ -199,7 +170,7 @@ Weather and seasonality strongly affect demand
 
 Peak usage occurs during weekdays and commute hours
 
-8️⃣ Product Review Sentiment Analysis (NLP Capstone)
+### 11 Product Review Sentiment Analysis (NLP Capstone)
 
 Domain: NLP
 
@@ -220,7 +191,7 @@ Negative sentiment strongly impacts ratings
 
 Keywords and review length influence sentiment
 
-9️⃣ Customer Grievance Analysis
+### 12 Customer Grievance Analysis
 
 Domain: NLP
 
@@ -239,7 +210,7 @@ Billing and service delays dominate complaints
 
 Certain categories show repeated issues
 
-🔟 Deep Learning Capstone Project
+### 13 Deep Learning Capstone Project
 
 Domain: Deep Learning
 
@@ -258,7 +229,7 @@ Deep learning captures complex relationships
 
 Performance improves with tuning and architecture design
 
-1️⃣1️⃣ Nestlé HR Policy Chatbot (Generative AI)
+### 14 Nestlé HR Policy Chatbot (Generative AI)
 
 Domain: GenAI / NLP
 
@@ -277,7 +248,7 @@ Chatbot significantly reduces search time
 
 Demonstrates real-world GenAI usage
 
-1️⃣2️⃣ BikeEase Ad Generator (Generative AI)
+### 15 BikeEase Ad Generator (Generative AI)
 
 Domain: GenAI / Marketing
 
@@ -294,8 +265,7 @@ Saves manual effort
 
 Enables rapid campaign experimentation
 
- About Me
-
+### About Me
 Jamuna Kumaresan Gomathi
 Aspiring Data Analyst | Machine Learning | NLP | Generative AI
 Python • SQL • AWS • Tableau
