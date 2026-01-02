@@ -70,4 +70,256 @@ Analyze user listening behavior over time using cohort analysis.
 - Visual storytelling with heatmaps
 
 **Notebook:** [spotify_cohort_analysis.ipynb](./03_Spotify_Cohort_Analysis/spotify_cohort_analysis.ipynb)
- 
+ ==============================================================================================================
+ 1️⃣ Adult Income Classification
+
+Domain: Classification
+
+Problem Statement:
+Predict whether an individual earns more than $50K annually using census data.
+
+Objective:
+
+Build a classification model to predict income category
+
+Identify key socio-economic factors influencing income
+
+Tools: Python, Pandas, Scikit-learn
+
+Key Insights:
+
+Education level and occupation are strong predictors
+
+Age and working hours significantly influence income
+
+📓 Notebook:
+https://github.com/Jamuna003/ML-PROJECT/blob/main/Adult%20Income%20Classification/Adult_Income_Classification.ipynb
+
+2️⃣ Employee Turnover Prediction
+
+Domain: HR Analytics
+
+Problem Statement:
+Employee attrition leads to high hiring costs and productivity loss.
+
+Objective:
+
+Predict employee attrition
+
+Identify key drivers of turnover
+
+Tools: Python, Pandas, Scikit-learn, Seaborn
+
+Key Insights:
+
+Job satisfaction and overtime strongly impact attrition
+
+Lack of growth opportunities increases turnover risk
+
+📓 Notebook:
+https://github.com/Jamuna003/ML-PROJECT/blob/main/Employee%20Turnover/Employee_Turnover.ipynb
+
+3️⃣ Spotify Cohort Analysis
+
+Domain: Behavioral Analytics
+
+Problem Statement:
+Understand how user listening behavior changes over time.
+
+Objective:
+
+Perform cohort-based retention analysis
+
+Identify long-term engagement trends
+
+Tools: Python, Pandas, Matplotlib, Seaborn
+
+Key Insights:
+
+Early cohorts show stronger long-term engagement
+
+Engagement drops without personalization
+
+📓 Notebook:
+https://github.com/Jamuna003/ML-PROJECT/blob/main/Cohorts%20of%20Songs%20Analysis/Spotify_Cohorts_Songs.ipynb
+
+4️⃣ Lending Club Loan Data Analysis
+
+Domain: Finance
+
+Problem Statement:
+Loan defaults pose financial risks to lending institutions.
+
+Objective:
+
+Analyze loan performance
+
+Identify factors contributing to default risk
+
+Tools: Python, Pandas, Visualization libraries
+
+Key Insights:
+
+High interest rates correlate with defaults
+
+Lower credit grades show higher risk
+
+5️⃣ Home Loan Data Analysis
+
+Domain: Banking
+
+Problem Statement:
+Banks need data-driven insights to reduce home loan default risk.
+
+Objective:
+
+Analyze applicant and loan attributes
+
+Identify approval and risk patterns
+
+Key Insights:
+
+Credit history and income heavily influence approvals
+
+Loan-to-income ratio is a critical risk factor
+
+6️⃣ Sales Data Analysis
+
+Domain: Business Analytics
+
+Problem Statement:
+Businesses need insights into sales performance to improve revenue.
+
+Objective:
+
+Analyze sales trends
+
+Identify high-performing products and regions
+
+Key Insights:
+
+Certain products drive majority of revenue
+
+Sales show clear seasonal patterns
+
+7️⃣ Bike Rental Demand Analysis (BikeEase)
+
+Domain: Time Series / EDA
+
+Problem Statement:
+Bike rental companies must forecast demand to optimize operations.
+
+Objective:
+
+Analyze demand trends
+
+Identify factors affecting bike rentals
+
+Key Insights:
+
+Weather and seasonality strongly affect demand
+
+Peak usage occurs during weekdays and commute hours
+
+8️⃣ Product Review Sentiment Analysis (NLP Capstone)
+
+Domain: NLP
+
+Problem Statement:
+Customer reviews contain valuable sentiment insights.
+
+Objective:
+
+Perform sentiment analysis on product reviews
+
+Extract actionable feedback
+
+Tools: NLP preprocessing, TF-IDF, ML models
+
+Key Insights:
+
+Negative sentiment strongly impacts ratings
+
+Keywords and review length influence sentiment
+
+9️⃣ Customer Grievance Analysis
+
+Domain: NLP
+
+Problem Statement:
+Organizations receive large volumes of customer complaints.
+
+Objective:
+
+Analyze grievance data
+
+Identify recurring complaint themes
+
+Key Insights:
+
+Billing and service delays dominate complaints
+
+Certain categories show repeated issues
+
+🔟 Deep Learning Capstone Project
+
+Domain: Deep Learning
+
+Problem Statement:
+Traditional ML models struggle with complex non-linear patterns.
+
+Objective:
+
+Apply neural networks to solve predictive problems
+
+Tools: TensorFlow / Keras
+
+Key Insights:
+
+Deep learning captures complex relationships
+
+Performance improves with tuning and architecture design
+
+1️⃣1️⃣ Nestlé HR Policy Chatbot (Generative AI)
+
+Domain: GenAI / NLP
+
+Problem Statement:
+Employees struggle to find answers in lengthy HR policy documents.
+
+Objective:
+
+Build a chatbot to answer HR policy queries
+
+Improve employee experience
+
+Key Insights:
+
+Chatbot significantly reduces search time
+
+Demonstrates real-world GenAI usage
+
+1️⃣2️⃣ BikeEase Ad Generator (Generative AI)
+
+Domain: GenAI / Marketing
+
+Problem Statement:
+Marketing teams need quick, personalized ad content.
+
+Objective:
+
+Generate ad copy automatically using AI
+
+Key Insights:
+
+Saves manual effort
+
+Enables rapid campaign experimentation
+
+ About Me
+
+Jamuna Kumaresan Gomathi
+Aspiring Data Analyst | Machine Learning | NLP | Generative AI
+Python • SQL • AWS • Tableau
+
+📌 Actively seeking Data Analyst / ML / AI opportunities
