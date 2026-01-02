@@ -58,4 +58,16 @@ Analyze sales performance data to uncover key business insights, trends, and opp
   - Customer segmentation highlights differences in buying patterns  
 - **Visualizations:** Time-series sales trends, category-wise performance charts, customer behavior analysis  
 - **Notebook:** [`sales_analysis.ipynb`](sales_analysis.ipynb)  
+### 5 Spotify Cohort Analysis
+Analyze user listening behavior over time using cohort analysis.
 
+**Problem Type:** Behavioral Analytics  
+**Domain:** Music Streaming  
+
+**Highlights:**
+- Cohort-based retention analysis
+- Engagement trends over time
+- Visual storytelling with heatmaps
+
+📓 **Notebook:**  
+[`spotify_cohort_analysis.ipynb`](./Spotify_Cohort_Analysis/spotify_cohort_analysis.ipynb)
