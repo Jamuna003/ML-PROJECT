@@ -71,29 +71,7 @@ Analyze user listening behavior over time using cohort analysis.
 
 **Notebook:** [spotify_cohort_analysis.ipynb](./03_Spotify_Cohort_Analysis/spotify_cohort_analysis.ipynb)
  ==============================================================================================================
- 1️⃣ Adult Income Classification
 
-Domain: Classification
-
-Problem Statement:
-Predict whether an individual earns more than $50K annually using census data.
-
-Objective:
-
-Build a classification model to predict income category
-
-Identify key socio-economic factors influencing income
-
-Tools: Python, Pandas, Scikit-learn
-
-Key Insights:
-
-Education level and occupation are strong predictors
-
-Age and working hours significantly influence income
-
-📓 Notebook:
-https://github.com/Jamuna003/ML-PROJECT/blob/main/Adult%20Income%20Classification/Adult_Income_Classification.ipynb
 
 2️⃣ Employee Turnover Prediction
 
