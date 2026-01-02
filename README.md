@@ -69,5 +69,4 @@ Analyze user listening behavior over time using cohort analysis.
 - Engagement trends over time
 - Visual storytelling with heatmaps
 
-📓 **Notebook:**  
-[`spotify_cohort_analysis.ipynb`](./Spotify_Cohort_Analysis/spotify_cohort_analysis.ipynb)
+**Notebook:** [spotify_cohort_analysis.ipynb](./spotify_cohort_analysis.ipynb)
